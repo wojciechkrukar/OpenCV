@@ -1,7 +1,7 @@
 # Rectangle Detector
 
-This repository is contain small projects.
 
-It focused on OpenCV and image processing
+
+The focus of this repository is OpenCV and image processing projects
 
 
