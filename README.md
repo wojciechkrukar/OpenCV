@@ -1,4 +1,4 @@
-# Rectangle Detector
+# OpenCV
 
 
 
